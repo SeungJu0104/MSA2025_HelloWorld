@@ -7,6 +7,7 @@ public class Hello {
 		System.out.println("안녕하세요!");
 		System.out.println("웹 브라우저에서 수정");
 		System.out.println("Commit 하지 않은 상태에서 로컬저장소와 웹 브라우저에서 동시에 수정");
+		System.out.println("웹 브라우저에서 Commit 실습");
 	}
 
 }
